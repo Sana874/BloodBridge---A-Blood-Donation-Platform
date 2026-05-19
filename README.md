@@ -70,7 +70,7 @@ BloodBridge---A-Blood-Donation-Platform/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/Sana874/BloodBridge---A-Blood-Donation-Platform.git
-cd BloodBridge---A-Blood-Donation-Platform
+cd BloodBridge
 ```
 
 **2. Install dependencies**
